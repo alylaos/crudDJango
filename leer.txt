@@ -1,0 +1,13 @@
+SUPER USUARIO:aly
+Pass:123
+esto sirve para entrar al /admin
+
+activar entorno virtual --venv\Scripts\activate
+
+instalar django --pip install django
+
+instalar django --pip install djangorestframework
+
+instalar setuptools --pip install setuptools
+
+instalar django cor headers --pip install django-cors-headers
